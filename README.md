@@ -5,9 +5,9 @@ BayStreetBets is a full-stack web application where users can create and join st
 
 BayStreetBets was built as a final project for Lighthouse Labs Web Development Program by:
 
-Ryan Punwasi
-Michael Le Duong
-Sidney Pang
+- Ryan Punwasi
+- Michael Le Duong
+- Sidney Pang
 
 ## A quick glance
 
